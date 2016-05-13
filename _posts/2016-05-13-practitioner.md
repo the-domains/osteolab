@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Practitioner
-datePublished: '2016-05-13T08:05:40.033Z'
-dateModified: '2016-05-13T08:03:26.521Z'
+datePublished: '2016-05-13T08:05:59.921Z'
+dateModified: '2016-05-13T08:05:54.312Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-practitioner.md
