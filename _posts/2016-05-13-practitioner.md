@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Practitioner
-datePublished: '2016-05-13T02:33:14.067Z'
-dateModified: '2016-05-13T02:20:21.025Z'
+datePublished: '2016-05-13T08:05:40.033Z'
+dateModified: '2016-05-13T08:03:26.521Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-13-practitioner.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-practitioner.md
 url: practitioner/index.html
 _type: Article
 
