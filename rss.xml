@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Osteo Lab]]></title>
+        <description><![CDATA[Osteo Lab]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 May 2016 08:43:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>WHAT IS GOING ON</p>]]></description>
+            <link>undefinedwhat-is-going-on/index.html</link>
+            <guid isPermaLink="false">09ea1f89-77c1-43fa-8791-61ecafafdd52</guid>
+            <pubDate>Fri, 13 May 2016 08:43:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
