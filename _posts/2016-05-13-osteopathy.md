@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
-description: 'This is a manual therapy practice for all musculoskeletal conditions . We treat muscles, joints and the connective tissue that binds these all together. '
-datePublished: '2016-05-13T09:05:25.546Z'
-dateModified: '2016-05-13T09:05:22.562Z'
+description: 'Osteopathy '
+datePublished: '2016-05-13T10:01:18.639Z'
+dateModified: '2016-05-13T10:00:51.546Z'
 title: ''
 author: []
 authors: []
@@ -21,8 +21,27 @@ url: osteopathy/index.html
 _type: Article
 
 ---
-This is a manual therapy practice for all musculoskeletal conditions . We treat muscles, joints and the connective tissue that binds these all together. 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b97ffd1-b0ed-44ed-87ee-08b515509256.jpg)
 
-Our aim is to give the body the best chance of healing itself. We achieve this by promoting joint motion, circulation, strength training, improving proprioception and education about your condition and how the body works in relation to this. 
+Osteopathy 
 
-Osteopathy addresses the body as a whole unit. While treating a particular injury, we look to identify factors that have contributed to the injury. Additionally, we address the secondary mechanical consequences the injury then causes to the rest of the body. For this reason, treatment will often involve muscles and joints distant to the painful region. The relation between the injury and the rest of the body can take many forms, including; biomechanical or structural associations and neurological or circulatory relationships.
+****
+
+* 15 minute free consultation to meet and discuss how we may help you
+* 45 minute consultation $75
+* 80 minute consultation $110
+
+Training
+
+****
+
+* 50 minutes $50
+* Personalised training program in a small group (40 minutes) $25
+* Personalised training in a small group (3 sessions per week) $50
+
+Payment Options
+
+****
+
+* Payments can be made with EFTPOS, Mastercard, VISA and cash.
+* Private health insurance will often cover a portion of your session, this varies between providers (the gap is payable via EFTPOS, Mastercard, VISA or cash).**​​**
