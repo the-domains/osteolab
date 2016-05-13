@@ -2,6 +2,7 @@ name: OsteoLab
 favicon: null
 layout_spectrum: 0.91458
 typography_spectrum: 0.11698723677545786
+title: Osteo Lab
 cta:
   domain: null
   bucket: null
