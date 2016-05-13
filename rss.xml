@@ -4,7 +4,7 @@
         <description><![CDATA[Osteo Lab]]></description>
         <link>https://thegrid.ai/osteolab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 09:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 09:48:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/osteolab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
@@ -19,20 +19,6 @@
             <link>https://thegrid.ai/osteolab/osteopathy/index.html</link>
             <guid isPermaLink="false">c57d5005-a9e4-4583-8028-2f1c07fa2507</guid>
             <pubDate>Fri, 13 May 2016 09:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OSTEOPATHY]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c17e3486-a3cd-4980-b478-01ecc47c4f01.jpg">]]></description>
-            <link>https://thegrid.ai/osteolab/what-is-going-on/index.html</link>
-            <guid isPermaLink="false">09ea1f89-77c1-43fa-8791-61ecafafdd52</guid>
-            <pubDate>Fri, 13 May 2016 08:55:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bd2ac5b-1777-42ec-af48-37c2af805b88.jpg">]]></description>
-            <link>https://thegrid.ai/osteolab/i-dont-know-what-is-going-on-ahhhhhh/index.html</link>
-            <guid isPermaLink="false">a7a8529d-7703-4137-8501-1f6ec555dfb2</guid>
-            <pubDate>Fri, 13 May 2016 08:45:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
